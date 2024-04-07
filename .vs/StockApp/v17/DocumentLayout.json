@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\mapper\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:mapper\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\email\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\email\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\helper\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:helper\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\templates\\registrationtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:templates\\registrationtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|c:\\users\\zbook 14u g6\\source\\repos\\stockapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B08170B2-4AD2-4C44-B7B3-C942E1E95993}|StockApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:12:14.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T12:15:35.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:38:22.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:46:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Repository\\CommentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:07:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Repository\\StockRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:07:46.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\Stock.cs",
+              "RelativeToolTip": "Models\\Stock.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:13:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Controllers\\StockController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:25:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Mapper\\StockMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\StockMapper.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Mapper\\StockMapper.cs",
+              "RelativeToolTip": "Mapper\\StockMapper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:53:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:54:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:35:00.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Email\\EmailDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Email\\EmailDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Email\\EmailDto.cs",
+              "RelativeToolTip": "DTOs\\Email\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:32:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Helper\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "Helper\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:13:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\IEmailServices.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmailServices.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Interfaces\\IEmailServices.cs",
+              "RelativeToolTip": "Interfaces\\IEmailServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:28:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Services\\EmailServices.cs",
+              "RelativeToolTip": "Services\\EmailServices.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:29:29.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwIQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:05:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:12:24.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Account\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\RegisterDTO.cs",
+              "RelativeToolTip": "DTOs\\Account\\RegisterDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:39:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\NewUserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Account\\NewUserDTO.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\NewUserDTO.cs",
+              "RelativeToolTip": "DTOs\\Account\\NewUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:34:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:07:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "DTOs\\Comment\\CommentDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:36:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Account\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:34:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:51:35.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Mapper\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Mapper\\CommentMapper.cs",
+              "RelativeToolTip": "Mapper\\CommentMapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:07:20.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "DTOs\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:38:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\DTOs\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:32:37.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QueryObject.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Helper\\QueryObject.cs",
+              "RelativeDocumentMoniker": "Helper\\QueryObject.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Helper\\QueryObject.cs",
+              "RelativeToolTip": "Helper\\QueryObject.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:14:55.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrationTemplate.html",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Templates\\RegistrationTemplate.html",
+              "RelativeDocumentMoniker": "Templates\\RegistrationTemplate.html",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Templates\\RegistrationTemplate.html",
+              "RelativeToolTip": "Templates\\RegistrationTemplate.html",
+              "ViewState": "AQIAADoBAAAAAAAAAAAIwEwBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-27T08:35:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:01:55.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\StockApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T12:15:25.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
